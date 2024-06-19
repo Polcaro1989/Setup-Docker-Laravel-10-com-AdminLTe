@@ -1,10 +1,13 @@
 # Projeto Laravel 10 com AdminLTe
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/abraao69/Setup-Docker-PHP-7.4/blob/master/logo.png" alt="Logo" width="200" height="100">
+  <br><br>
+</div>
+<img src="https://tse1.mm.bing.net/th?id=OIP.FKz3rr0jQPeHTE_8Q-XyIgHaDt&pid=Api&P=0&h=180" alt="Logo" width="1000" height="400">
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone -b laravel-10-com-adminlte https://github.com/especializati/setup-docker-laravel.git app-laravel
+https://github.com/abraao69/Setup-Docker-Laravel-10-com-AdminLTe.git
 ```
 ```sh
 cd app-laravel
